@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/gl-matrix": "^2.4.1",
+    "@types/text-encoding": "0.0.33",
+    "quadtree-lib": "^1.0.9"
+  }
+}
