@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@types/gl-matrix": "^2.4.1",
-    "@types/text-encoding": "0.0.33"
-  }
-}
